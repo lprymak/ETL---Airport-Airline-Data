@@ -16,4 +16,5 @@ Using the transformed data to Python for further analysis (performing equations 
 Uploading our analysis directly from Python into our SQLite database
 We also exported our transformed tables into MySQL in case the uder prefers using MySQL
 
+![Image of Method](https://github.com/lprymak/ETL---Airport-Airline-Data/blob/master/Process%20diagram.jpg)
 
